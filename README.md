@@ -1,2 +1,2 @@
 Creating a new branch is quick & simple.
-Now is in dev.
+Now git is in dev.
